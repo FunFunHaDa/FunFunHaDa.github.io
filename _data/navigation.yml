@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Categories"
-    url: http://127.0.0.1:4000/categories/
+    url: https://funfunhada.github.io/categories/
   - title: "Tags"
-    url: http://127.0.0.1:4000/tags/
+    url: https://funfunhada.github.io/tags/
   - title: "About"
-    url: http://127.0.0.1:4000/about/
+    url: https://funfunhada.github.io/about/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
