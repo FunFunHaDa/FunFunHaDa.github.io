@@ -31,3 +31,10 @@ _site
 # User Sample
 docs
 test
+.editorconfig
+.gitattributes
+.github
+CHANGELOG.md
+minimal-mistakes-jekyll.gemspec
+screenshot-layouts.png
+screenshot.png
